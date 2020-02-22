@@ -11,6 +11,7 @@ def input_to_index(board)
   return "#{board}".to_i - 1
 end
 
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 #value = "X" or "O"
 #index = input_to_index
 def move(board, index, value = "X")
