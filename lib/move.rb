@@ -11,5 +11,5 @@ def inputs_to_index
   #{board}.to_i - 1
 end
 
-def move(board, )
+#def move(board, )
   
