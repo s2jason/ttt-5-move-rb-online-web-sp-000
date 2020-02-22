@@ -12,7 +12,6 @@ def input_to_index(board)
 end
 
 index = input_to_index
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 def move(board, index, )
   
 end
