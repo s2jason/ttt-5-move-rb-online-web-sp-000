@@ -13,7 +13,7 @@ end
 
 #value = "X" or "O"
 #index = input_to_index
-#def move(board, index, value = "X")
+def move(board, index, value = "X")
   #board[index] = value
-#end
+end
   
