@@ -17,6 +17,6 @@ end
 #value = "X" or "O"
 #index = input_to_index
 def move(board, index, value = "X")
-  #board[index] = value
+  return board[index] = value
 end
   
