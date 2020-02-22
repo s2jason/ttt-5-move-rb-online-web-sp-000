@@ -11,5 +11,7 @@ def input_to_index(board)
   return "#{board}".to_i - 1
 end
 
-#def move(board, )
+def move
+  
+end
   
